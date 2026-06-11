@@ -1,0 +1,501 @@
+,index,title,rating,ratingLevel,release year,user rating score,user rating size,sceneDesc,type,audience_segment,genre,country,imdbRating,imdbVotes,rated
+0,0,White Chicks,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2004,82.0,80,"crude and sexual humor, language and some drug content",movie,Teens,"Comedy, Crime",United States,5.9,"190,250",PG-13
+1,1,Lucky Number Slevin,R,Restricted. May be inappropriate for children 17 and under.,2006,,82,"strong violence, sexual content and adult language",movie,Adults,"Crime, Drama, Thriller","United Kingdom, Germany, Canada, United States",7.7,"337,898",R
+2,2,Grey's Anatomy,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,98.0,80,,tv,Teens,,,,,
+3,3,Prison Break,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2008,98.0,80,,tv,Teens,,,,,
+4,4,How I Met Your Mother,TV-PG,Parental guidance suggested. May not be suitable for all children.,2014,94.0,80,,tv,Family,,,,,
+5,5,Supernatural,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,95.0,80,,tv,Teens,,,,,
+6,6,Breaking Bad,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2013,97.0,80,,tv,Adults,,,,,
+7,7,The Vampire Diaries,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2017,91.0,80,,tv,Teens,,,,,
+8,8,The Walking Dead,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,98.0,80,,tv,Adults,,,,,
+9,9,Pretty Little Liars,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,96.0,80,,tv,Teens,,,,,
+10,10,Once Upon a Time,TV-PG,Parental guidance suggested. May not be suitable for all children.,2016,98.0,80,,tv,Family,,,,,
+11,11,Sherlock,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,95.0,80,,tv,Teens,,,,,
+12,12,Death Note,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2006,77.0,80,,tv,Teens,,,,,
+13,13,Naruto,TV-PG,Parental guidance suggested. May not be suitable for all children.,2008,88.0,80,,tv,Family,,,,,
+14,14,The Hunter,R,Restricted. May be inappropriate for children 17 and under.,2011,,82,language and brief violence,movie,Adults,"Adventure, Drama, Thriller",Australia,6.7,"42,085",R
+15,15,Lottie Dottie Chicken,TV-Y,Suitable for all ages.,2009,,82,,tv,Kids,,,,,
+16,16,Arrow,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,96.0,80,,tv,Teens,,,,,
+17,17,Black Mirror,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,80.0,80,,tv,Adults,,,,,
+18,18,The Originals,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,74.0,80,,tv,Teens,,,,,
+19,19,The 100,NR,This movie has not been rated.,2016,97.0,80,,,Unrated,,,,,
+20,20,Masha and the Bear,TV-Y,Suitable for all ages.,2013,81.0,80,,tv,Kids,,,,,
+21,21,"ÌÒ Pai, ÌÒ - Look at This",TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2007,,82,,tv,Adults,,,,,
+22,22,Nymphomaniac: Volume 1,NR,This movie has not been rated.,2013,,82,,,Unrated,,,,,
+23,23,Hunter X Hunter (2011),NR,This movie has not been rated.,2013,57.0,80,,,Unrated,,,,,
+24,24,Marvel's Luke Cage,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,95.0,80,,tv,Adults,,,,,
+25,25,Marvel's Iron Fist,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,98.0,80,,tv,Adults,,,,,
+26,26,Narcos,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,94.0,80,,tv,Adults,,,,,
+27,27,The Flash,TV-PG,Parental guidance suggested. May not be suitable for all children.,2016,98.0,80,,tv,Family,,,,,
+28,28,The Seven Deadly Sins,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+29,29,Scream,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+30,30,The Do-Over,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,84.0,80,,tv,Adults,,,,,
+31,31,OperaÌ¤Ìµes Especiais,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,,82,,tv,Adults,,,,,
+32,32,0.03,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+33,33,Trollhunters,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2016,83.0,80,,tv,Kids,,,,,
+34,34,Fearless,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+35,35,Hyena Road,R,Restricted. May be inappropriate for children 17 and under.,2015,,82,"bloody war violence, language throughout and some sexual material",movie,Adults,"Drama, War",Canada,6.5,"9,696",R
+36,36,Santa Clarita Diet,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,82.0,80,,tv,Adults,,,,,
+37,37,"Sex, Love and Therapy",NR,This movie has not been rated.,2014,,82,,,Unrated,,,,,
+38,38,White Girl,UR,"This movie has not been rated. Intended for adults only and may contain sex, violence, drugs, language or other adult themes.",2016,,82,,,Unrated,,,,,
+39,39,Girlboss,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,94.0,80,,tv,Adults,,,,,
+40,40,City of God: 10 Years Later,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2013,,82,,tv,Adults,,,,,
+41,41,13 Reasons Why,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,99.0,80,,tv,Adults,,,,,
+42,42,Sand Castle,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,89.0,80,,tv,Adults,,,,,
+43,43,Salvador Martinha - Tip of the Tongue,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+44,44,Sandy Wexler,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2017,92.0,80,,tv,Teens,,,,,
+45,45,O Amor no DivÌ£,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+46,46,Stronger Than the World,NR,This movie has not been rated.,2016,,82,,,Unrated,,,,,
+47,47,Back and Forth,NR,This movie has not been rated.,2016,,82,,,Unrated,,,,,
+48,48,Happily Married,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,,82,,tv,Teens,,,,,
+49,49,Pandora,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+50,51,The Office (U.S.),TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,97.0,80,,tv,Teens,,,,,
+51,54,90210,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2013,62.0,80,,tv,Teens,,,,,
+52,55,Gossip Girl,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,96.0,80,,tv,Teens,,,,,
+53,59,Parks and Recreation,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,94.0,80,,tv,Teens,,,,,
+54,60,Glee,TV-PG,Parental guidance suggested. May not be suitable for all children.,2015,92.0,80,,tv,Family,,,,,
+55,62,Family Guy,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,98.0,80,,tv,Adults,,,,,
+56,63,Criminal Minds,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,98.0,80,,tv,Teens,,,,,
+57,64,Friends,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2003,98.0,80,,tv,Teens,,,,,
+58,65,The Secret Life of the American Teenager,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2013,81.0,80,,tv,Teens,,,,,
+59,66,One Tree Hill,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2011,90.0,80,,tv,Teens,,,,,
+60,69,Shameless (U.S.),TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,97.0,80,,tv,Adults,,,,,
+61,70,New Girl,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,91.0,80,,tv,Teens,,,,,
+62,71,American Horror Story,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,90.0,80,,tv,Adults,,,,,
+63,72,Orange Is the New Black,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,98.0,80,,tv,Adults,,,,,
+64,73,Inside Russia's Toughest Prison,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2011,,82,,tv,Teens,,,,,
+65,75,Bates Motel,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,83.0,80,,tv,Teens,,,,,
+66,78,Grace and Frankie,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,90.0,80,,tv,Adults,,,,,
+67,79,How to Get Away with Murder,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,95.0,80,,tv,Teens,,,,,
+68,80,The Get Down,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,80.0,80,,tv,Adults,,,,,
+69,81,Love,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+70,83,The OA,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+71,84,Stranger Things,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,90.0,80,,tv,Teens,,,,,
+72,85,Ingobernable,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,96.0,80,,tv,Adults,,,,,
+73,86,Zootopia,PG,Parental guidance suggested. May not be suitable for children.,2016,97.0,80,"some thematic elements, rude humor and action",movie,Family,"Animation, Action, Adventure",United States,8.0,"625,023",PG
+74,87,Meet the Blacks,R,Restricted. May be inappropriate for children 17 and under.,2016,79.0,80,"pervasive language, some sexual material, violence and drug use",movie,Adults,"Comedy, Horror",United States,4.8,"38,313",R
+75,88,Finding Dory,PG,Parental guidance suggested. May not be suitable for children.,2016,98.0,80,mild thematic elements,movie,Family,"Animation, Adventure, Comedy",United States,7.2,"331,036",PG
+76,90,Sausage Party,R,Restricted. May be inappropriate for children 17 and under.,2016,91.0,80,"strong crude sexual content, pervasive language, and drug use",movie,Adults,"Animation, Adventure, Comedy","Canada, United States",6.1,"221,851",R
+77,91,Pete's Dragon,PG,Parental guidance suggested. May not be suitable for children.,2016,93.0,80,"for action, peril and brief language",movie,Family,"Action, Adventure, Comedy","United States, United Kingdom, New Zealand, India",6.7,"64,160",PG
+78,92,Kevin Hart: What Now?,R,Restricted. May be inappropriate for children 17 and under.,2016,97.0,80,"some sexual material, and language throughout",movie,Adults,"Documentary, Comedy",United States,6.0,"10,065",R
+79,94,The Discovery,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+80,97,Chewing Gum,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,93.0,80,,tv,Adults,,,,,
+81,98,Cheer Squad,TV-PG,Parental guidance suggested. May not be suitable for all children.,2016,61.0,80,,tv,Family,,,,,
+82,99,Only for One Night,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,78.0,80,,tv,Adults,,,,,
+83,100,The Life Aquatic with Steve Zissou,R,Restricted. May be inappropriate for children 17 and under.,2004,,82,"language, some drug use, violence and partial nudity",movie,Adults,"Action, Adventure, Comedy",United States,7.2,"220,871",R
+84,102,The L Word,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2009,,82,,tv,Adults,,,,,
+85,104,30 Rock,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,66.0,80,,tv,Teens,,,,,
+86,105,Mad Men,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2014,75.0,80,,tv,Teens,,,,,
+87,106,It's Always Sunny in Philadelphia,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,91.0,80,,tv,Adults,,,,,
+88,107,Californication,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2014,63.0,80,,tv,Adults,,,,,
+89,111,Portlandia,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,62.0,80,,tv,Teens,,,,,
+90,113,Don't Trust the B---- in Apartment 23,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,,82,,tv,Teens,,,,,
+91,114,Friends with Benefits,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2011,,82,,tv,Teens,,,,,
+92,115,The Client List,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2013,92.0,80,,tv,Teens,,,,,
+93,116,Halt and Catch Fire,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+94,117,5 to 7,R,Restricted. May be inappropriate for children 17 and under.,2014,,82,some sexual material,movie,Adults,"Comedy, Drama, Romance",United States,7.1,"21,959",R
+95,119,Chef's Table,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+96,120,Documentary Now!,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+97,122,Better Call Saul,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,95.0,80,,tv,Adults,,,,,
+98,124,Schitt's Creek,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,74.0,80,,tv,Teens,,,,,
+99,125,Lovesick,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+100,126,Flaked,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+101,127,Master of None,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,,82,,tv,Adults,,,,,
+102,128,Chelsea,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+103,129,Abstract: The Art of Design,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2017,,82,,tv,Teens,,,,,
+104,130,Cooper Barrett's Guide to Surviving Life,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+105,131,The Great British Baking Show,TV-PG,Parental guidance suggested. May not be suitable for all children.,2016,94.0,80,,tv,Family,,,,,
+106,132,Life in Pieces,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,68.0,80,,tv,Teens,,,,,
+107,133,Crazy Ex-Girlfriend,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2017,,82,,tv,Teens,,,,,
+108,134,Easy,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+109,136,No Tomorrow,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+110,137,Minimalism: A Documentary About the Important Things,TV-PG,Parental guidance suggested. May not be suitable for all children.,2016,,82,,tv,Family,,,,,
+111,139,Hot Girls Wanted: Turned On,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+112,144,Win It All,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+113,145,MerlÌ?,TV-PG,Parental guidance suggested. May not be suitable for all children.,2015,,82,,tv,Family,,,,,
+114,146,Amy Schumer: The Leather Special,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+115,147,Louis C.K. 2017,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,71.0,80,,tv,Adults,,,,,
+116,148,Dave Chappelle,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,94.0,80,,tv,Adults,,,,,
+117,149,Almost Adults,NR,This movie has not been rated.,2016,,82,,,Unrated,,,,,
+118,150,The Brothers,R,Restricted. May be inappropriate for children 17 and under.,2001,,82,strong sexual content and language,movie,Adults,"Comedy, Drama, Romance",United States,6.3,"5,147",R
+119,151,Skins,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2013,,82,,tv,Adults,,,,,
+120,152,The Cleveland Show,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,88.0,80,,tv,Teens,,,,,
+121,153,Absolutely Fabulous,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,59.0,80,,tv,Teens,,,,,
+122,155,Raising Hope,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2013,73.0,80,,tv,Teens,,,,,
+123,156,Come Fly With Me,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2010,,82,,tv,Teens,,,,,
+124,158,Brickleberry,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2014,63.0,80,,tv,Adults,,,,,
+125,160,BoJack Horseman,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+126,161,Being Mary Jane: The Series,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+127,164,Unbreakable Kimmy Schmidt,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+128,167,Bordertown,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,86.0,80,,tv,Teens,,,,,
+129,168,Jane The Virgin,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,91.0,80,,tv,Teens,,,,,
+130,170,Dope,R,Restricted. May be inappropriate for children 17 and under.,2015,79.0,80,"language, drug content, sexuality/nudity, and some violence-all involving teens",movie,Adults,"Adventure, Comedy, Crime",United States,7.2,"91,128",R
+131,172,The Carmichael Show,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,69.0,80,,tv,Teens,,,,,
+132,175,November Rule,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,,82,,tv,Teens,,,,,
+133,179,Haters Back Off,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,58.0,80,,tv,Teens,,,,,
+134,180,Kubo and the Two Strings,PG,Parental guidance suggested. May not be suitable for children.,2016,96.0,80,"thematic elements, scary images, action and peril",movie,Family,"Animation, Action, Adventure","United States, United Kingdom",7.7,"145,993",PG
+135,181,Skins,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+136,182,A Weekend with the Family,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+137,183,Crazyhead,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+138,184,Queen of Katwe,PG,Parental guidance suggested. May not be suitable for children.,2016,,81,"thematic elements, an accident scene and some suggestive material",movie,Family,"Biography, Drama, Sport",United States,7.4,"19,781",PG
+139,185,Little Boxes,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,61.0,80,,tv,Teens,,,,,
+140,186,Deidra & Laney Rob a Train,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2017,,82,,tv,Teens,,,,,
+141,190,Hurricane Bianca,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+142,191,Honeytrap,NR,This movie has not been rated.,2014,,82,,,Unrated,,,,,
+143,192,Greenleaf,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,62.0,80,,tv,Teens,,,,,
+144,193,Lazy Eye,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+145,194,Like Cotton Twines,NR,This movie has not been rated.,2016,,82,,,Unrated,,,,,
+146,195,The Wedding Party,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+147,198,Boy Bye,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+148,200,Nancy Drew,PG,Parental guidance suggested. May not be suitable for children.,2007,,82,,movie,Family,"Comedy, Crime, Family",United States,5.9,"22,391",PG
+149,202,Nurse Jackie,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,82.0,80,,tv,Adults,,,,,
+150,204,Drop Dead Diva,TV-PG,Parental guidance suggested. May not be suitable for all children.,2014,,82,,tv,Family,,,,,
+151,205,Gilmore Girls,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2006,91.0,80,,tv,Teens,,,,,
+152,206,Parenthood,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2014,79.0,80,,tv,Teens,,,,,
+153,207,Life Unexpected,TV-PG,Parental guidance suggested. May not be suitable for all children.,2010,55.0,80,,tv,Family,,,,,
+154,212,Being Human (U.S.),TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2014,58.0,80,,tv,Teens,,,,,
+155,214,The Carrie Diaries,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2013,,82,,tv,Teens,,,,,
+156,215,Baby Daddy,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,80.0,80,,tv,Teens,,,,,
+157,217,The Angriest Man in Brooklyn,R,Restricted. May be inappropriate for children 17 and under.,2014,,82,,movie,Adults,"Comedy, Drama",United States,5.7,"25,151",R
+158,223,Sense8,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,81.0,80,,tv,Adults,,,,,
+159,226,Girlfriends' Guide to Divorce,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,63.0,80,,tv,Teens,,,,,
+160,235,Fried,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,,82,,tv,Adults,,,,,
+161,236,The Great Gilly Hopkins,PG,Parental guidance suggested. May not be suitable for children.,2016,69.0,80,for thematic material and language,movie,Family,,,,,
+162,237,The Magicians,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,89.0,80,,tv,Adults,,,,,
+163,238,One Day at a Time,TV-PG,Parental guidance suggested. May not be suitable for all children.,2017,,82,,tv,Family,,,,,
+164,242,Better Off Single,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+165,245,The Matchbreaker,PG,Parental guidance suggested. May not be suitable for children.,2016,79.0,80,,movie,Family,"Comedy, Romance",United States,5.6,"2,931",PG
+166,246,Tramps,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+167,247,Slam,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+168,250,The Waterboy,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,1998,82.0,80,language and some crude sexual humor,movie,Teens,"Comedy, Sport",United States,6.2,"189,980",PG-13
+169,251,10 Things I Hate About You,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,1999,68.0,80,"adult content, adult language and mild violence",movie,Teens,"Comedy, Drama, Romance",United States,7.4,"448,378",PG-13
+170,252,Grease,PG,Parental guidance suggested. May not be suitable for children.,1978,86.0,80,,movie,Family,"Comedy, Musical, Romance",United States,7.2,"323,963",PG
+171,253,How to Lose a Guy in 10 Days,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2003,56.0,80,some sex-related material,movie,Teens,"Comedy, Romance","United States, Germany",6.5,"320,607",PG-13
+172,254,The Benchwarmers,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2006,77.0,80,"crude and suggestive humor, and for language",movie,Teens,"Comedy, Sport",United States,5.6,"57,779",PG-13
+173,255,Step Up,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2006,64.0,80,"thematic elements, brief violence and innuendo",movie,Teens,"Crime, Drama, Music",United States,6.5,"132,872",PG-13
+174,256,High School Musical 2,TV-G,Suitable for all ages.,2007,58.0,80,,tv,Kids,,,,,
+175,257,Twilight,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2008,89.0,80,some violence and one sexual scene,movie,Teens,"Drama, Fantasy, Romance","United States, United Kingdom",5.4,"522,520",PG-13
+176,258,Coraline,PG,Parental guidance suggested. May not be suitable for children.,2009,95.0,80,"thematic elements, scary images, some language and suggestive humor",movie,Family,"Animation, Drama, Family",United States,7.8,"297,596",PG
+177,259,Hannah Montana: The Movie,G,General Audiences. Suitable for all ages.,2009,56.0,80,,movie,Kids,"Comedy, Drama, Family",United States,4.7,"47,336",G
+178,261,Friday Night Lights,TV-PG,Parental guidance suggested. May not be suitable for all children.,2010,81.0,80,,tv,Family,,,,,
+179,262,StarStruck,TV-G,Suitable for all ages.,2010,,82,,tv,Kids,,,,,
+180,273,Mean Girls 2,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2011,,82,"For some rude and suggestive material, and for language.",movie,Teens,"Comedy, Drama",United States,4.1,"27,202",PG-13
+181,275,That '70s Show,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2005,89.0,80,,tv,Teens,,,,,
+182,278,Heartland,TV-PG,Parental guidance suggested. May not be suitable for all children.,2015,85.0,80,,tv,Family,,,,,
+183,281,Switched at Birth,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,83.0,80,,tv,Teens,,,,,
+184,283,Hart of Dixie,TV-PG,Parental guidance suggested. May not be suitable for all children.,2014,81.0,80,,tv,Family,,,,,
+185,286,Safe Haven,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2013,62.0,80,"thematic material involving threatening behavior, and for violence and sexuality",movie,Teens,"Drama, Romance, Thriller",United States,6.7,"119,882",PG-13
+186,288,The Night Shift,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,93.0,80,,tv,Teens,,,,,
+187,289,Reign,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,79.0,80,,tv,Teens,,,,,
+188,292,Fuller House,TV-G,Suitable for all ages.,2016,90.0,80,,tv,Kids,,,,,
+189,294,Gilmore Girls: A Year in the Life,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,77.0,80,,tv,Teens,,,,,
+190,296,Gabriel lglesias: I‰Ûªm Sorry For What I Said When I Was Hungry,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,84.0,80,,tv,Teens,,,,,
+191,302,The Wedding Planner,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2001,,82,language and some sexual humor,movie,Teens,"Comedy, Romance","Germany, United States",5.4,"90,779",PG-13
+192,303,Blow,R,Restricted. May be inappropriate for children 17 and under.,2001,78.0,80,"pervasive drug content and language, some violence and sexuality",movie,Adults,"Biography, Crime, Drama",United States,7.5,"286,529",R
+193,304,High School Musical,TV-G,Suitable for all ages.,2006,64.0,80,,tv,Kids,,,,,
+194,309,Bones,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,97.0,80,,tv,Teens,,,,,
+195,310,Law & Order: Special Victims Unit,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,97.0,80,,tv,Teens,,,,,
+196,313,NCIS,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,97.0,80,,tv,Teens,,,,,
+197,325,Army Wives,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2013,61.0,80,,tv,Teens,,,,,
+198,327,Private Practice,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,88.0,80,,tv,Teens,,,,,
+199,332,Revenge,TV-PG,Parental guidance suggested. May not be suitable for all children.,2015,84.0,80,,tv,Family,,,,,
+200,333,Scandal,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,92.0,80,,tv,Teens,,,,,
+201,334,Magic Mike,R,Restricted. May be inappropriate for children 17 and under.,2012,77.0,80,"pervasive sexual content, brief graphic nudity, language and some drug use",movie,Adults,"Comedy, Drama, Music",United States,6.1,"152,203",R
+202,335,Trouble with the Curve,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2012,63.0,80,,movie,Teens,"Drama, Romance, Sport",United States,6.8,"69,797",PG-13
+203,340,Home,PG,Parental guidance suggested. May not be suitable for children.,2015,94.0,80,mild action and some rude humor,movie,Family,"Animation, Adventure, Comedy","United States, India",6.5,"120,478",PG
+204,345,Skin Wars,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,69.0,80,,tv,Teens,,,,,
+205,348,Felipe Neto: My Life Makes No Sense,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2017,,82,,tv,Adults,,,,,
+206,350,Lost,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2010,98.0,80,,tv,Teens,,,,,
+207,351,Weeds,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2012,85.0,80,,tv,Adults,,,,,
+208,352,The Tudors,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2010,,82,,tv,Adults,,,,,
+209,354,Lie to Me,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2010,89.0,80,,tv,Teens,,,,,
+210,362,Charmed,TV-PG,Parental guidance suggested. May not be suitable for all children.,2005,90.0,80,,tv,Family,,,,,
+211,363,White Collar,TV-PG,Parental guidance suggested. May not be suitable for all children.,2014,93.0,80,,tv,Family,,,,,
+212,364,House of Cards,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,91.0,80,,tv,Adults,,,,,
+213,366,The Killing,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2014,73.0,80,,tv,Teens,,,,,
+214,372,Unconditional,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,2012,,82,some violent content and mature thematic elements,movie,Teens,"Biography, Crime, Drama",United States,7.0,"5,050",PG-13
+215,374,The Blacklist,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,96.0,80,,tv,Teens,,,,,
+216,375,The Fosters,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,73.0,80,,tv,Teens,,,,,
+217,379,Witches of East End,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2014,,82,,tv,Teens,,,,,
+218,380,Bitten,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,56.0,80,,tv,Adults,,,,,
+219,381,London Has Fallen,R,Restricted. May be inappropriate for children 17 and under.,2016,96.0,80,strong violence and language throughout,movie,Adults,"Action, Thriller","United States, United Kingdom, Bulgaria, India",5.9,"179,714",R
+220,382,Marvel's Jessica Jones,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,83.0,80,,tv,Adults,,,,,
+221,383,Bloodline,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+222,385,Velvet,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+223,387,The Crown,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,84.0,80,,tv,Adults,,,,,
+224,389,Kurt Seyit & Sura,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2014,,82,,tv,Teens,,,,,
+225,390,The Returned,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,,82,,tv,Teens,,,,,
+226,391,The Girl in the Book,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,,82,,tv,Adults,,,,,
+227,392,Quantico,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,88.0,80,,tv,Teens,,,,,
+228,399,100 Metros,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+229,401,Dexter,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2013,95.0,80,,tv,Adults,,,,,
+230,402,Leverage,TV-PG,Parental guidance suggested. May not be suitable for all children.,2012,86.0,80,,tv,Family,,,,,
+231,407,Burn Notice,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2013,85.0,80,,tv,Teens,,,,,
+232,411,Luther,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,69.0,80,,tv,Teens,,,,,
+233,412,Hawaii Five-0,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,96.0,80,"dialogue, language, sexual situations and violence",tv,Teens,,,,,
+234,414,Last Man Standing,TV-PG,Parental guidance suggested. May not be suitable for all children.,2015,97.0,80,,tv,Family,,,,,
+235,416,Person of Interest,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,93.0,80,,tv,Teens,,,,,
+236,418,Touch,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,68.0,80,,tv,Teens,,,,,
+237,420,Breakout Kings,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2012,88.0,80,,tv,Teens,,,,,
+238,423,The Following,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,,82,,tv,Teens,,,,,
+239,424,"Drugs, Inc.",TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,,82,,tv,Teens,,,,,
+240,425,Longmire,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,92.0,80,,tv,Teens,,,,,
+241,426,Ripper Street,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+242,427,The Fall,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,61.0,80,,tv,Adults,,,,,
+243,428,Death in Paradise,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,77.0,80,,tv,Teens,,,,,
+244,429,Marvel's Agents of S.H.I.E.L.D.,TV-PG,Parental guidance suggested. May not be suitable for all children.,2016,89.0,80,,tv,Family,,,,,
+245,430,Crossing Lines,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,66.0,80,,tv,Teens,,,,,
+246,434,The Honorable Woman,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2014,,82,,tv,Adults,,,,,
+247,435,Transporter: The Series,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2014,,82,,tv,Adults,,,,,
+248,436,Gotham,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,85.0,80,,tv,Teens,,,,,
+249,440,American Odyssey,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,,82,,tv,Teens,,,,,
+250,441,Aquarius,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2015,,82,,tv,Adults,,,,,
+251,442,Hap and Leonard,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,57.0,80,,tv,Adults,,,,,
+252,443,Rosewood,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2015,81.0,80,,tv,Teens,,,,,
+253,445,Limitless,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,84.0,80,,tv,Teens,,,,,
+254,446,Travelers,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,86.0,80,,tv,Adults,,,,,
+255,447,The Doctor Blake Mysteries,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,57.0,80,,tv,Adults,,,,,
+256,448,I.T,NR,This movie has not been rated.,2016,,82,,,Unrated,,,,,
+257,449,Bordertown,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,,82,,tv,Adults,,,,,
+258,462,The West Wing,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2005,79.0,80,,tv,Teens,,,,,
+259,465,Blue Bloods,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,95.0,80,,tv,Teens,,,,,
+260,475,Forensic Files,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2011,88.0,80,,tv,Teens,,,,,
+261,479,Rectify,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+262,485,American Crime,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,,82,,tv,Teens,,,,,
+263,486,Madam Secretary,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,2016,70.0,80,,tv,Teens,,,,,
+264,493,American Crime Story: The People v. O.J. Simpson,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,2016,79.0,80,,tv,Adults,,,,,
+265,500,The Nightmare Before Christmas,PG,Parental guidance suggested. May not be suitable for children.,1993,84.0,80,some scary images,movie,Family,"Animation, Adventure, Family",United States,7.9,"409,668",PG
+266,501,Scooby-Doo,PG,Parental guidance suggested. May not be suitable for children.,2002,86.0,80,"some rude humor, language and some scary action",movie,Family,"Adventure, Comedy, Family",United States,5.4,"138,973",PG
+267,502,Chicken Little,G,General Audiences. Suitable for all ages.,2005,92.0,80,,movie,Kids,"Animation, Adventure, Comedy",United States,5.7,"106,831",G
+268,503,Teenage Mutant Ninja Turtles,PG,Parental guidance suggested. May not be suitable for children.,2007,,82,"animated action violence, some scary cartoon images and mild language",movie,Family,,,,,
+269,504,Star Wars: The Clone Wars,PG,Parental guidance suggested. May not be suitable for children.,2008,57.0,80,"sci-fi action violence throughout, brief language and momentary smoking",movie,Family,"Animation, Action, Adventure","United States, Singapore, Australia, United Kingdom, Czech Republic",6.0,"80,394",PG
+270,506,The Smurfs and the Magic Flute,G,General Audiences. Suitable for all ages.,1976,,82,,movie,Kids,,,,,
+271,507,We're Back! A Dinosaur's Story,G,General Audiences. Suitable for all ages.,1993,,82,,movie,Kids,"Animation, Adventure, Comedy",United States,6.0,"16,469",G
+272,508,Thomas & Friends: Thomas & the Runaway Kite,TV-Y,Suitable for all ages.,2010,,82,,tv,Kids,,,,,
+273,509,Dino Squad,TV-Y7,Suitable for children ages 7 and older,2008,,82,,tv,Kids,,,,,
+274,510,Cars Toons: Mater's Tall Tales,TV-G,Suitable for all ages.,2010,74.0,80,,tv,Kids,,,,,
+275,511,LeapFrog: The Amazing Alphabet Amusement Park,TV-Y,Suitable for all ages.,2010,,82,,tv,Kids,,,,,
+276,512,Star Wars: The Clone Wars,TV-PG,Parental guidance suggested. May not be suitable for all children.,2014,93.0,80,,tv,Family,,,,,
+277,513,Phineas and Ferb,TV-G,Suitable for all ages.,2012,89.0,80,,tv,Kids,,,,,
+278,514,The Batman,TV-Y7,Suitable for children ages 7 and older,2007,77.0,80,,tv,Kids,,,,,
+279,515,Justice League,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2003,66.0,80,,tv,Kids,,,,,
+280,516,Justice League Unlimited,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2005,,82,,tv,Kids,,,,,
+281,517,Mighty Morphin Power Rangers,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2010,73.0,80,,tv,Kids,,,,,
+282,518,Young Justice,TV-PG,Parental guidance suggested. May not be suitable for all children.,2012,71.0,80,,tv,Family,,,,,
+283,519,The Super Mario Bros. Super Show!,TV-Y7,Suitable for children ages 7 and older,1989,,82,,tv,Kids,,,,,
+284,520,Power Rangers Zeo,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,1996,,82,,tv,Kids,,,,,
+285,521,Oscar's Oasis,TV-G,Suitable for all ages.,2011,,82,,tv,Kids,,,,,
+286,522,Transformers Prime,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2013,,82,,tv,Kids,,,,,
+287,523,The Adventures of Chuck & Friends,TV-Y,Suitable for all ages.,2011,,82,,tv,Kids,,,,,
+288,524,Transformers: Rescue Bots,TV-Y7,Suitable for children ages 7 and older,2016,,82,,tv,Kids,,,,,
+289,525,Thomas & Friends: King of the Railway,TV-G,Suitable for all ages.,2013,,82,,tv,Kids,,,,,
+290,526,LEGO: Marvel Super Heroes: Maximum Overload,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2013,,82,,tv,Kids,,,,,
+291,527,Max Steel,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2014,,82,,tv,Kids,,,,,
+292,528,Transformers Prime Beast Hunters: Predacons Rising,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2013,,82,,tv,Kids,,,,,
+293,529,Agent F.O.X.,PG,Parental guidance suggested. May not be suitable for children.,2014,,82,,movie,Family,,,,,
+294,530,VeggieTales in the House,TV-Y,Suitable for all ages.,2016,,82,,tv,Kids,,,,,
+295,531,Thunder and the House Of Magic,TV-G,Suitable for all ages.,2013,,82,,tv,Kids,,,,,
+296,532,All Hail King Julien,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2016,71.0,80,,tv,Kids,,,,,
+297,533,Kong: King of the Apes,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2016,,82,,tv,Kids,,,,,
+298,534,Marvel Super Hero Adventures: Frost Fight!,PG,Parental guidance suggested. May not be suitable for children.,2015,,82,fantasy action,movie,Family,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi",USA,5.2,727,PG
+299,535,Slugterra: Slug Fu Showdown,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2015,,82,,tv,Kids,,,,,
+300,536,Dinotrux,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2017,,82,,tv,Kids,,,,,
+301,537,Edgar Rice Burroughs' Tarzan and Jane,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2017,,82,,tv,Kids,,,,,
+302,538,Lego DC Comics: Batman Be-Leaguered,TV-Y7,Suitable for children ages 7 and older,2014,,82,,tv,Kids,,,,,
+303,540,Power Rangers Dino Charge,TV-Y7,Suitable for children ages 7 and older,2015,,82,,tv,Kids,,,,,
+304,541,Bunks,TV-PG,Parental guidance suggested. May not be suitable for all children.,2013,,82,,tv,Family,,,,,
+305,542,The Jungle Book,PG,Parental guidance suggested. May not be suitable for children.,2016,97.0,80,for some sequences of scary action and peril,movie,Family,"Animation, Action, Adventure","United Kingdom, United States, New Zealand, France, Canada, India",7.3,"304,379",PG
+306,543,The Angry Birds Movie,PG,Parental guidance suggested. May not be suitable for children.,2016,92.0,80,for rude humor and action,movie,Family,"Animation, Action, Adventure","United States, Finland, Canada",6.3,"117,177",PG
+307,544,The Secret Life of Pets,PG,Parental guidance suggested. May not be suitable for children.,2016,,81,for action and some rude humor,movie,Family,"Animation, Adventure, Comedy","Japan, United States",6.5,"233,985",PG
+308,545,The Furchester Hotel,TV-Y,Suitable for all ages.,2015,,82,,tv,Kids,,,,,
+309,546,Marvel's Hulk: Where Monsters Dwell,PG,Parental guidance suggested. May not be suitable for children.,2016,,82,"action violence throughout, some scary images, and language",movie,Family,,,,,
+310,547,Angry Birds,TV-G,Suitable for all ages.,2013,,82,,tv,Kids,,,,,
+311,548,Talking Tom and Friends,TV-G,Suitable for all ages.,2016,61.0,80,,tv,Kids,,,,,
+312,549,Nexo Knights,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2015,,82,,tv,Kids,,,,,
+313,551,An Extremely Goofy Movie,G,General Audiences. Suitable for all ages.,1999,67.0,80,,movie,Kids,,,,,
+314,553,The Iron Giant,PG,Parental guidance suggested. May not be suitable for children.,1999,83.0,80,fantasy action and mild language,movie,Family,"Animation, Action, Adventure","United States, Czech Republic, United Kingdom",8.1,"257,198",PG
+315,559,The Cat in the Hat Knows a Lot About That!,TV-Y,Suitable for all ages.,2014,,82,,tv,Kids,,,,,
+316,561,Bob the Builder,TV-Y,Suitable for all ages.,2015,,82,,tv,Kids,,,,,
+317,562,Beyblade: Metal Fusion,TV-Y7,Suitable for children ages 7 and older,2009,,82,,tv,Kids,,,,,
+318,563,Ninja Turtles: The Next Mutation,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,1997,,82,,tv,Kids,,,,,
+319,565,DreamWorks Kung Fu Panda Awesome Secrets,TV-PG,Parental guidance suggested. May not be suitable for all children.,2008,,82,,tv,Family,,,,,
+320,566,LEGO Ninjago: Masters of Spinjitzu,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2015,67.0,80,,tv,Kids,,,,,
+321,568,Goosebumps,TV-Y7,Suitable for children ages 7 and older,1998,88.0,80,,tv,Kids,,,,,
+322,569,LEGO Ninjago: Masters of Spinjitzu: Way of the Ninja,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2011,,82,,tv,Kids,,,,,
+323,570,Super Buddies,G,General Audiences. Suitable for all ages.,2013,,82,,movie,Kids,Family,USA,4.3,"1,231",G
+324,571,Tad: The Lost Explorer,TV-PG,Parental guidance suggested. May not be suitable for all children.,2012,,82,,tv,Family,,,,,
+325,572,PokÌ©mon: Indigo League,TV-Y,Suitable for all ages.,2000,74.0,80,,tv,Kids,,,,,
+326,573,Ratchet and Clank,PG,Parental guidance suggested. May not be suitable for children.,2016,74.0,80,action and some rude humor,movie,Family,,,,,
+327,574,Pac-Man and the Ghostly Adventures,TV-Y7,Suitable for children ages 7 and older,2014,,82,,tv,Kids,,,,,
+328,575,Iron Man & Captain America: Heroes United,PG,Parental guidance suggested. May not be suitable for children.,2014,,82,"action and violence throughout, and mild language",movie,Family,,,,,
+329,576,Power Rangers Super Megaforce,TV-Y7,Suitable for children ages 7 and older,2014,,82,,tv,Kids,,,,,
+330,577,Chuggington,TV-Y,Suitable for all ages.,2015,,82,,tv,Kids,,,,,
+331,579,The Adventures of Puss in Boots,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2016,78.0,80,,tv,Kids,,,,,
+332,582,Some Assembly Required,TV-G,Suitable for all ages.,2015,,82,,tv,Kids,,,,,
+333,585,Kulipari: An Army of Frogs,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2016,,82,,tv,Kids,,,,,
+334,586,Transformers: Robots in Disguise,TV-Y7,Suitable for children ages 7 and older,2016,,82,,tv,Kids,,,,,
+335,587,Robocar Poli,TV-Y,Suitable for all ages.,2012,,82,,tv,Kids,,,,,
+336,588,LEGO Bionicle: The Journey to One,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2016,,82,,tv,Kids,,,,,
+337,590,Voltron: Legendary Defender,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2017,,82,,tv,Kids,,,,,
+338,592,Buddy Thunderstruck,TV-PG,Parental guidance suggested. May not be suitable for all children.,2017,,82,,tv,Family,,,,,
+339,594,PokÌ©mon: XY,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2015,56.0,80,,tv,Kids,,,,,
+340,595,Power Rangers Dino Super Charge,TV-Y7,Suitable for children ages 7 and older,2016,,82,,tv,Kids,,,,,
+341,596,The Deep,TV-Y7,Suitable for children ages 7 and older,2015,,82,,tv,Kids,,,,,
+342,597,Skylanders Academy,TV-Y7,Suitable for children ages 7 and older,2016,,82,,tv,Kids,,,,,
+343,599,Growing Up Wild,G,General Audiences. Suitable for all ages.,2016,80.0,80,,movie,Kids,,,,,
+344,600,The Little Rascals,PG,Parental guidance suggested. May not be suitable for children.,1994,86.0,80,some rude dialogue,movie,Family,"Comedy, Family, Romance",United States,6.3,"58,486",PG
+345,601,Flubber,PG,Parental guidance suggested. May not be suitable for children.,1997,83.0,80,slapstick action and mild language,movie,Family,"Comedy, Family, Sci-Fi",United States,5.3,"99,482",PG
+346,602,Tarzan,G,General Audiences. Suitable for all ages.,1999,95.0,80,,movie,Kids,"Animation, Adventure, Comedy","United States, Japan",7.3,"265,277",G
+347,603,The Emperor's New Groove,G,General Audiences. Suitable for all ages.,2000,95.0,80,,movie,Kids,"Animation, Adventure, Comedy","United States, Japan, France",7.4,"246,493",G
+348,605,Lilo & Stitch,PG,Parental guidance suggested. May not be suitable for children.,2002,95.0,80,mild sci-fi action,movie,Family,"Animation, Adventure, Comedy","United States, Japan",7.4,"243,669",PG
+349,606,Scooby-Doo 2: Monsters Unleashed,PG,Parental guidance suggested. May not be suitable for children.,2004,82.0,80,"some scary action, rude humor and language",movie,Family,"Adventure, Comedy, Family","United States, Canada",5.3,"71,108",PG
+350,607,The Three Musketeers,G,General Audiences. Suitable for all ages.,2004,,82,,movie,Kids,"Animation, Adventure, Comedy, Family, Musical, Romance",USA,6.4,"8,658",G
+351,608,Mickey's Twice Upon a Christmas,G,General Audiences. Suitable for all ages.,2004,,82,,movie,Kids,"Animation, Comedy, Family, Fantasy",USA,6.5,"4,393",G
+352,609,The Pacifier,PG,Parental guidance suggested. May not be suitable for children.,2005,91.0,80,"action violence, language and rude humor",movie,Family,"Action, Comedy, Drama",United States,5.6,"102,778",PG
+353,612,Bee Movie,PG,Parental guidance suggested. May not be suitable for children.,2007,94.0,80,mild suggestive humor,movie,Family,"Animation, Adventure, Comedy",United States,6.1,"195,239",PG
+354,613,Kung Fu Panda,PG,Parental guidance suggested. May not be suitable for children.,2008,91.0,80,sequences of martial arts action,movie,Family,"Animation, Action, Adventure","United States, Japan, China, Russia",7.6,"574,537",PG
+355,617,Super Why!,TV-Y,Suitable for all ages.,2015,68.0,80,,tv,Kids,,,,,
+356,618,Jessie,TV-G,Suitable for all ages.,2015,88.0,80,,tv,Kids,,,,,
+357,619,Disney Animation Collection: Vol. 1: Mickey and the Beanstalk,TV-G,Suitable for all ages.,2009,,82,,tv,Kids,,,,,
+358,620,Lab Rats,TV-Y7,Suitable for children ages 7 and older,2016,85.0,80,,tv,Kids,,,,,
+359,622,Pocoyo,TV-Y,Suitable for all ages.,2007,67.0,80,,tv,Kids,,,,,
+360,625,Octonauts,TV-Y,Suitable for all ages.,2015,,82,,tv,Kids,,,,,
+361,626,Dragons: Race to the Edge,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2017,88.0,80,,tv,Kids,,,,,
+362,627,Mother Goose Club,TV-Y,Suitable for all ages.,2016,,82,,tv,Kids,,,,,
+363,628,Little Einsteins,TV-Y,Suitable for all ages.,2007,70.0,80,,tv,Kids,,,,,
+364,629,Hotel Transylvania 2,PG,Parental guidance suggested. May not be suitable for children.,2015,93.0,80,"some scary images, action and rude humor",movie,Family,"Animation, Adventure, Comedy","United States, Canada",6.6,"160,207",PG
+365,630,Dawn of the Croods,TV-Y7,Suitable for children ages 7 and older,2017,72.0,80,,tv,Kids,,,,,
+366,632,Goosebumps,PG,Parental guidance suggested. May not be suitable for children.,2015,90.0,80,"scary and intense creature action and images, and for some rude humor",movie,Family,"Adventure, Comedy, Family","United States, Australia",6.3,"101,752",PG
+367,633,Kung Fu Panda 3,PG,Parental guidance suggested. May not be suitable for children.,2016,92.0,80,martial arts action and some mild rude humor,movie,Family,"Animation, Action, Adventure","United States, China",7.1,"215,526",PG
+368,636,Home: Adventures with Tip & Oh,TV-Y7,Suitable for children ages 7 and older,2017,,82,,tv,Kids,,,,,
+369,637,Open Season: Scared Silly,PG,Parental guidance suggested. May not be suitable for children.,2015,72.0,80,rude humor and some action,movie,Family,"Animation, Adventure, Comedy","United States, Canada, Australia, Czech Republic, United Kingdom",5.0,"4,497",PG
+370,638,The Land Before Time XIV: Journey of the Brave,G,General Audiences. Suitable for all ages.,2016,,82,,movie,Kids,"Animation, Adventure, Family, Musical",N/A,6.0,596,G
+371,640,Alice Through the Looking Glass,PG,Parental guidance suggested. May not be suitable for children.,2016,96.0,80,fantasy action/peril and some language,movie,Family,"Adventure, Family, Fantasy","United States, Thailand, United Kingdom, India, Canada",6.2,"133,655",PG
+372,643,Ask the StoryBots,TV-Y,Suitable for all ages.,2016,,82,,tv,Kids,,,,,
+373,645,Goldie & Bear,TV-Y,Suitable for all ages.,2016,77.0,80,,tv,Kids,,,,,
+374,646,Little Baby Bum: Nursery Rhyme Friends,TV-Y,Suitable for all ages.,2016,,82,,tv,Kids,,,,,
+375,648,Tayo the Little Bus,TV-Y,Suitable for all ages.,2014,,82,,tv,Kids,,,,,
+376,651,Antz,PG,Parental guidance suggested. May not be suitable for children.,1998,80.0,80,moderate adult language and intense action,movie,Family,"Animation, Adventure, Comedy","United States, United Kingdom",6.5,"169,324",PG
+377,654,Chicken Run,G,General Audiences. Suitable for all ages.,2000,80.0,80,,movie,Kids,"Animation, Adventure, Comedy","United Kingdom, France, United States",7.1,"223,786",G
+378,657,Spy Kids 3: Game Over,PG,Parental guidance suggested. May not be suitable for children.,2003,64.0,80,action sequences and peril,movie,Family,"Action, Adventure, Comedy",United States,4.4,"69,529",PG
+379,658,Annie,PG,Parental guidance suggested. May not be suitable for children.,1982,68.0,80,adult content and mld violence,movie,Family,"Comedy, Drama, Family",United States,6.6,"52,930",PG
+380,659,Mulan 2,G,General Audiences. Suitable for all ages.,2004,85.0,80,,movie,Kids,,,,,
+381,661,Lilo & Stitch 2: Stitch Has A Glitch,PG,Parental guidance suggested. May not be suitable for children.,2005,85.0,80,some mild action,movie,Family,"Animation, Comedy, Drama, Family, Sci-Fi",USA,6.3,"12,911",PG
+382,667,DreamWorks Shrek's Swamp Stories,TV-PG,Parental guidance suggested. May not be suitable for all children.,2008,56.0,80,,tv,Family,,,,,
+383,668,Beverly Hills Chihuahua 3: Viva La Fiesta!,G,General Audiences. Suitable for all ages.,2012,,82,,movie,Kids,"Adventure, Comedy, Family",USA,4.4,"1,796",G
+384,669,DreamWorks Spooky Stories: Volume 2,TV-PG,Parental guidance suggested. May not be suitable for all children.,2011,,82,,tv,Family,,,,,
+385,670,The Magic School Bus,TV-Y,Suitable for all ages.,1997,81.0,80,,tv,Kids,,,,,
+386,672,Sammy 2,TV-PG,Parental guidance suggested. May not be suitable for all children.,2012,,82,,tv,Family,,,,,
+387,676,Sofia the First,TV-Y,Suitable for all ages.,2015,82.0,80,,tv,Kids,,,,,
+388,677,Barbie Life in the Dreamhouse,TV-G,Suitable for all ages.,2012,85.0,80,,tv,Kids,,,,,
+389,678,Paddington,PG,Parental guidance suggested. May not be suitable for children.,2014,70.0,80,mild action and rude humor,movie,Family,"Adventure, Comedy, Family","United Kingdom, France, Costa Rica",7.3,"151,982",PG
+390,679,Larva,TV-G,Suitable for all ages.,2015,,82,,tv,Kids,,,,,
+391,680,Sid the Science Kid,TV-Y,Suitable for all ages.,2008,,82,,tv,Kids,,,,,
+392,684,Minions,PG,Parental guidance suggested. May not be suitable for children.,2015,96.0,80,action and rude humor,movie,Family,"Animation, Adventure, Comedy","United States, France",6.4,"281,964",PG
+393,689,The Little Prince,PG,Parental guidance suggested. May not be suitable for children.,2015,71.0,80,mild thematic elements,movie,Family,"Animation, Adventure, Comedy","France, China, Canada, United States",7.6,"70,308",PG
+394,690,Word Party,TV-Y,Suitable for all ages.,2016,,82,,tv,Kids,,,,,
+395,700,Cool Runnings,PG,Parental guidance suggested. May not be suitable for children.,1993,81.0,80,,movie,Family,"Adventure, Comedy, Family",United States,7.0,"122,391",PG
+396,701,Homeward Bound: The Incredible Journey,G,General Audiences. Suitable for all ages.,1993,96.0,80,,movie,Kids,"Adventure, Comedy, Drama",United States,7.0,"54,161",G
+397,703,Anastasia,G,General Audiences. Suitable for all ages.,1997,93.0,80,,movie,Kids,"Animation, Adventure, Drama",United States,7.2,"146,017",G
+398,708,Missione Hamburger,PG,Parental guidance suggested. May not be suitable for children.,1997,75.0,80,"language, some comic violence and mild sex-related humor",movie,Family,,,,,
+399,710,Curious George,G,General Audiences. Suitable for all ages.,2006,55.0,80,,movie,Kids,"Animation, Adventure, Comedy","United States, Germany, Taiwan, France, Philippines, South Korea, Canada, United Kingdom",6.5,"19,044",G
+400,717,Secret of the Wings,G,General Audiences. Suitable for all ages.,2012,65.0,80,,movie,Kids,"Animation, Family, Fantasy","United States, India",7.0,"15,741",G
+401,723,Clifford the Big Red Dog,TV-Y,Suitable for all ages.,2002,,82,,tv,Kids,,,,,
+402,733,Walt Disney Animation Studios Short Films Collection,TV-G,Suitable for all ages.,2015,84.0,80,,tv,Kids,,,,,
+403,735,Bunk'd,TV-G,Suitable for all ages.,2016,61.0,80,,tv,Kids,,,,,
+404,742,The BFG,PG,Parental guidance suggested. May not be suitable for children.,2016,97.0,80,"for action/peril, some scary moments and brief rude humor",movie,Family,"Adventure, Family, Fantasy","United States, India, United Kingdom",6.3,"98,409",PG
+405,749,The Real Ghostbusters,TV-Y7,Suitable for children ages 7 and older,1990,65.0,80,,tv,Kids,,,,,
+406,753,Babe: Pig in the City,G,General Audiences. Suitable for all ages.,1998,,82,,movie,Kids,,,,,
+407,754,The Prince of Egypt,PG,Parental guidance suggested. May not be suitable for children.,1998,81.0,80,intense scenes dealing with strong content,movie,Family,"Animation, Adventure, Drama","United States, Canada",7.2,"158,262",PG
+408,755,Paulie,PG,Parental guidance suggested. May not be suitable for children.,1998,,82,,movie,Family,"Adventure, Comedy, Drama",United States,6.5,"17,125",PG
+409,757,The Road to El Dorado,PG,Parental guidance suggested. May not be suitable for children.,2000,91.0,80,mild thematic material and language,movie,Family,"Animation, Adventure, Comedy","United States, Canada, France",6.9,"118,185",PG
+410,758,Fantasia 2000,G,General Audiences. Suitable for all ages.,2000,,82,,movie,Kids,,,,,
+411,759,Pocahontas II: Journey to a New World,TV-G,Suitable for all ages.,1998,64.0,80,,tv,Kids,,,,,
+412,761,Fantasia,G,General Audiences. Suitable for all ages.,1940,61.0,80,,movie,Kids,"Animation, Family, Fantasy",United States,7.7,"110,233",G
+413,762,An American Tail,G,General Audiences. Suitable for all ages.,1986,67.0,80,,movie,Kids,"Animation, Adventure, Comedy",United States,6.9,"61,031",G
+414,763,Pooh's Grand Adventure: The Search for Christopher Robin,G,General Audiences. Suitable for all ages.,1997,,82,,movie,Kids,"Animation, Adventure, Comedy, Family, Musical",USA,7.1,"5,457",G
+415,764,FernGully 2: The Magical Rescue,G,General Audiences. Suitable for all ages.,1998,,82,,movie,Kids,"Animation, Adventure, Family, Fantasy",USA,4.6,"1,424",G
+416,765,Balto 2: Wolf Quest,G,General Audiences. Suitable for all ages.,2001,,82,,movie,Kids,,,,,
+417,766,Balto,G,General Audiences. Suitable for all ages.,1995,64.0,80,,movie,Kids,"Animation, Adventure, Drama",United States,7.1,"51,603",G
+418,767,Back to the Secret Garden,G,General Audiences. Suitable for all ages.,2002,,82,,movie,Kids,,,,,
+419,768,The Brave Little Toaster Goes to Mars,G,General Audiences. Suitable for all ages.,1998,,82,,movie,Kids,,,,,
+420,769,The Brave Little Toaster to the Rescue,G,General Audiences. Suitable for all ages.,1997,,82,,movie,Kids,,,,,
+421,770,An American Tail: The Mystery of the Night Monster,G,General Audiences. Suitable for all ages.,1999,,82,,movie,Kids,"Animation, Adventure, Family, Mystery",USA,6.0,"1,069",G
+422,771,An American Tail: Fievel Goes West,G,General Audiences. Suitable for all ages.,1991,,82,,movie,Kids,"Animation, Adventure, Family","United States, United Kingdom",6.5,"29,311",G
+423,772,The Last Unicorn,G,General Audiences. Suitable for all ages.,1982,,82,,movie,Kids,"Animation, Adventure, Drama","United Kingdom, United States, Japan",7.3,"32,143",G
+424,774,Brother Bear 2,G,General Audiences. Suitable for all ages.,2006,57.0,80,,movie,Kids,"Animation, Adventure, Comedy, Family, Fantasy, Romance",USA,6.2,"15,778",G
+425,775,The Fox and the Hound 2,G,General Audiences. Suitable for all ages.,2006,,82,,movie,Kids,"Animation, Adventure, Comedy, Family, Musical",USA,5.3,"4,449",G
+426,777,Jetsons: The Movie,G,General Audiences. Suitable for all ages.,1990,,82,,movie,Kids,"Animation, Comedy, Family","United States, Taiwan, Philippines, China",5.6,"6,081",G
+427,779,A Monster in Paris,PG,Parental guidance suggested. May not be suitable for children.,2011,,82,"some action violence involving gunplay, and mild rude humor",movie,Family,"Animation, Adventure, Comedy","France, Belgium",6.7,"23,837",PG
+428,780,The Gruffalo,TV-Y,Suitable for all ages.,2009,,82,,tv,Kids,,,,,
+429,781,DreamWorks How to Train Your Dragon Legends,TV-PG,Parental guidance suggested. May not be suitable for all children.,2011,,82,,tv,Family,,,,,
+430,782,Ernest & Celestine,PG,Parental guidance suggested. May not be suitable for children.,2012,,82,some scary moments,movie,Family,"Animation, Adventure, Comedy","France, Belgium, Luxembourg, United States",7.8,"23,596",PG
+431,784,Animaniacs,TV-Y7,Suitable for children ages 7 and older,1997,72.0,80,,tv,Kids,,,,,
+432,785,Disney Animation Collection: Vol. 4: The Tortoise and the Hare,TV-G,Suitable for all ages.,2009,,82,,tv,Kids,,,,,
+433,786,PopPixie,TV-G,Suitable for all ages.,2011,,82,,tv,Kids,,,,,
+434,787,Jack and the Cuckoo-Clock Heart,PG,Parental guidance suggested. May not be suitable for children.,2013,,82,"scary images, suggestive material, some language and smoking",movie,Family,"Animation, Adventure, Drama","France, Belgium",6.9,"7,999",PG
+435,788,The Pirate Fairy,G,General Audiences. Suitable for all ages.,2014,57.0,80,,movie,Kids,"Animation, Adventure, Family, Fantasy",USA,6.6,"12,366",G
+436,789,Axel: The Biggest Little Hero,PG,Parental guidance suggested. May not be suitable for children.,2013,,82,"some scary images, perilous action sequences and mild rude humor",movie,Family,"Animation, Adventure, Comedy",China,4.7,155,PG
+437,790,The Adventures of Figaro Pho,TV-Y7,Suitable for children ages 7 and older,2015,,82,,tv,Kids,,,,,
+438,791,The Boxcar Children,G,General Audiences. Suitable for all ages.,2014,,82,,movie,Kids,"Animation, Adventure, Family","United States, Guatemala, South Korea",6.5,641,G
+439,792,Pet Pals in Windland,TV-G,Suitable for all ages.,2014,,82,,tv,Kids,,,,,
+440,794,Alpha and Omega: Dino Digs,TV-G,Suitable for all ages.,2016,,82,,tv,Kids,,,,,
+441,796,Quackerz,PG,Parental guidance suggested. May not be suitable for children.,2016,,82,"rude and suggestive humor, and some action",movie,Family,"Animation, Adventure, Comedy","Russia, China, Canada, Estonia, Spain, Peru",4.3,762,PG
+442,797,Hatched,TV-Y7,Suitable for children ages 7 and older,2013,,82,,tv,Kids,,,,,
+443,798,Blinky Bill: The Movie,PG,Parental guidance suggested. May not be suitable for children.,2015,,82,some rude humor,movie,Family,"Animation, Adventure, Family","Australia, Ireland, India",5.1,922,PG
+444,805,FernGully: The Last Rainforest,G,General Audiences. Suitable for all ages.,1992,70.0,80,,movie,Kids,"Animation, Adventure, Family","Australia, United States, South Korea, Taiwan, United Kingdom, France, Canada, Thailand, Denmark",6.6,"37,034",G
+445,808,The Lizzie McGuire Movie,PG,Parental guidance suggested. May not be suitable for children.,2003,,82,mild thematic elements,movie,Family,"Adventure, Comedy, Family",United States,5.6,"43,801",PG
+446,811,Recess: Taking the Fifth Grade,G,General Audiences. Suitable for all ages.,2003,,82,,movie,Kids,"Animation, Comedy, Family",USA,6.8,"1,935",G
+447,815,The Very Hungry Caterpillar and Other Stories,TV-Y,Suitable for all ages.,1993,,82,,tv,Kids,,,,,
+448,816,The Hero of Color City,G,General Audiences. Suitable for all ages.,2014,,82,,movie,Kids,"Animation, Adventure, Family",United States,3.9,808,G
+449,818,The Little Engine That Could,G,General Audiences. Suitable for all ages.,2011,,82,,movie,Kids,"Animation, Family","United States, India",5.6,440,G
+450,819,Delhi Safari,PG,Parental guidance suggested. May not be suitable for children.,2012,,82,"violence and menacing action, rude humor, suggestive content and thematic elements",movie,Family,"Animation, Adventure, Comedy",India,5.5,"2,131",PG
+451,821,Pound Puppies,TV-Y,Suitable for all ages.,2013,,82,,tv,Kids,,,,,
+452,823,Monster Math Squad,TV-G,Suitable for all ages.,2012,,82,,tv,Kids,,,,,
+453,824,Care Bears: Welcome to Care-a-Lot,TV-Y,Suitable for all ages.,2012,,82,,tv,Kids,,,,,
+454,826,Clifford's Puppy Days,TV-Y,Suitable for all ages.,2003,,82,,tv,Kids,,,,,
+455,829,Dinosaur King,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,2008,,82,,tv,Kids,,,,,
+456,830,Ribbit,PG,Parental guidance suggested. May not be suitable for children.,2014,,82,some peril,movie,Family,"Animation, Adventure, Comedy","Malaysia, United States, India",4.1,757,PG
+457,832,Rooster Doodle-doo,TV-G,Suitable for all ages.,2014,,82,,tv,Kids,,,,,
+458,835,My Animal Friends,TV-Y,Suitable for all ages.,2013,,82,,tv,Kids,,,,,
+459,836,Worms,PG,Parental guidance suggested. May not be suitable for children.,2013,,82,,movie,Family,"Animation, Adventure, Family","Brazil, United States",4.8,231,PG
+460,837,Puffin Rock,TV-Y,Suitable for all ages.,2016,,82,,tv,Kids,,,,,
+461,841,The Mr. Peabody and Sherman Show,TV-Y7,Suitable for children ages 7 and older,2017,,82,,tv,Kids,,,,,
+462,842,Zoobabu,TV-Y,Suitable for all ages.,2010,,82,,tv,Kids,,,,,
+463,844,Gon,TV-G,Suitable for all ages.,2013,,82,,tv,Kids,,,,,
+464,845,Sid the Science Kid: The Movie,TV-Y,Suitable for all ages.,2012,,82,,tv,Kids,,,,,
+465,848,LEGO Jurassic World: The Indominus Escape,TV-Y7,Suitable for children ages 7 and older,2016,,82,,tv,Kids,,,,,
+466,908,Harry and the Hendersons,PG,Parental guidance suggested. May not be suitable for children.,1987,58.0,80,,movie,Family,"Comedy, Family, Fantasy",United States,6.1,"39,544",PG
+467,910,Cats & Dogs,PG,Parental guidance suggested. May not be suitable for children.,2001,,82,animal action and humor,movie,Family,"Action, Adventure, Comedy","United States, Australia",5.2,"65,108",PG
+468,911,Atlantis: The Lost Empire,PG,Parental guidance suggested. May not be suitable for children.,2001,96.0,80,action violence,movie,Family,"Animation, Action, Adventure","United States, Japan",6.9,"145,597",PG
+469,916,Tarzan & Jane,G,General Audiences. Suitable for all ages.,2002,,82,,movie,Kids,"Animation, Adventure, Family",USA,5.3,"5,919",G
+470,917,Atlantis: Milo's Return,G,General Audiences. Suitable for all ages.,2003,79.0,80,,movie,Kids,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",USA,5.1,"8,573",G
+471,923,Batched,G,General Audiences. Suitable for all ages.,2000,,82,,movie,Kids,,,,,
+472,925,Winnie the Pooh: Springtime with Roo,G,General Audiences. Suitable for all ages.,2004,,82,,movie,Kids,,,,,
+473,929,Pooh's Heffalump Movie,G,General Audiences. Suitable for all ages.,2005,,82,,movie,Kids,"Animation, Adventure, Comedy","United States, Japan, Germany, Canada, France, United Kingdom",6.4,"9,229",G
+474,930,Kronk's New Groove,G,General Audiences. Suitable for all ages.,2005,,82,,movie,Kids,"Animation, Comedy, Family, Musical, Romance",USA,5.8,"12,034",G
+475,931,Corpse Bride,PG,Parental guidance suggested. May not be suitable for children.,2005,91.0,80,"some scary images and action, and brief mild language",movie,Family,"Animation, Comedy, Drama","United States, United Kingdom",7.4,"324,184",PG
+476,939,Disney Animation Collection: Vol. 2: Three Little Pigs,TV-G,Suitable for all ages.,2009,,82,,tv,Kids,,,,,
+477,942,Underdogs,PG,Parental guidance suggested. May not be suitable for children.,2013,,82,,movie,Family,"Animation, Adventure, Comedy","Argentina, Spain, United Kingdom, France, United States",6.4,"10,494",PG
+478,945,Yellowbird,PG,Parental guidance suggested. May not be suitable for children.,2014,,82,,movie,Family,"Animation, Adventure, Comedy","France, Belgium",5.5,"1,925",PG
+479,951,Mr. Magoo,PG,Parental guidance suggested. May not be suitable for children.,1997,,82,mild language and action sequences,movie,Family,"Adventure, Comedy, Family","United States, Canada",4.1,"16,840",PG
+480,958,Air Bud: World Pup,G,General Audiences. Suitable for all ages.,2000,,82,,movie,Kids,,,,,
+481,962,Baby's Day Out,PG,Parental guidance suggested. May not be suitable for children.,1994,71.0,80,mild language and comic action,movie,Family,"Adventure, Comedy, Crime",United States,6.2,"59,134",PG
+482,966,Blank Check,PG,Parental guidance suggested. May not be suitable for children.,1994,93.0,80,,movie,Family,"Comedy, Crime, Family",United States,5.3,"23,212",PG
+483,967,Heavyweights,PG,Parental guidance suggested. May not be suitable for children.,1995,74.0,80,some rude language and pranks,movie,Family,"Comedy, Drama, Family",United States,6.6,"31,972",PG
+484,968,Inspector Gadget 2,G,General Audiences. Suitable for all ages.,2003,,82,,movie,Kids,"Action, Comedy, Crime, Family, Sci-Fi","USA, Australia",3.5,"5,882",G
+485,969,Air Bud: Spikes Back,G,General Audiences. Suitable for all ages.,2003,,82,,movie,Kids,"Comedy, Family, Sport",Canada,4.1,"1,779",G
+486,972,D2: The Mighty Ducks,PG,Parental guidance suggested. May not be suitable for children.,1994,70.0,80,some mild language and rough hockey action,movie,Family,"Comedy, Drama, Family",United States,6.1,"44,720",PG
+487,973,"Honey, I Shrunk the Kids",PG,Parental guidance suggested. May not be suitable for children.,1989,80.0,80,,movie,Family,"Adventure, Comedy, Family","United States, Mexico",6.4,"175,324",PG
+488,976,Air Buddies,PG,Parental guidance suggested. May not be suitable for children.,2006,,82,"some mild, rude humor",movie,Family,"Adventure, Comedy, Family",USA,4.8,"3,445",PG
+489,977,Dr. Dolittle: Tail to the Chief,PG,Parental guidance suggested. May not be suitable for children.,2008,,82,brief mild language and some rude behavior,movie,Family,"Comedy, Family","USA, Canada",4.0,"2,472",PG
+490,978,Flicka 2,PG,Parental guidance suggested. May not be suitable for children.,2010,,82,some reckless behavior,movie,Family,Family,USA,6.0,"1,540",PG
+491,979,H2O: Just Add Water,TV-PG,Parental guidance suggested. May not be suitable for all children.,2009,74.0,80,,tv,Family,,,,,
+492,981,Dolphin Tale,PG,Parental guidance suggested. May not be suitable for children.,2011,,82,some mild thematic elements,movie,Family,"Drama, Family","Canada, United States",6.8,"26,585",PG
+493,985,Step Dogs,TV-PG,Parental guidance suggested. May not be suitable for all children.,2013,,82,,tv,Family,,,,,
+494,987,Mia and Me,TV-Y,Suitable for all ages.,2015,,82,,tv,Kids,,,,,
+495,989,Russell Madness,PG,Parental guidance suggested. May not be suitable for children.,2015,,82,some rude humor and sports action,movie,Family,"Family, Sport",United States,4.3,739,PG
+496,993,Wiener Dog Internationals,G,General Audiences. Suitable for all ages.,2015,,82,,movie,Kids,,,,,
+497,994,Pup Star,G,General Audiences. Suitable for all ages.,2016,,82,,movie,Kids,"Comedy, Family",Canada,4.4,407,G
+498,997,Precious Puppies,TV-G,Suitable for all ages.,2003,,82,,tv,Kids,,,,,
+499,998,Beary Tales,TV-G,Suitable for all ages.,2013,,82,,tv,Kids,,,,,
